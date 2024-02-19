@@ -1,6 +1,6 @@
 # Machine Learning and Data Mining Exam Preparation
 
-This repository contains Jupyter Notebook exercises prepared for the machine learning and data mining exam. The exercises cover four main types: Regression, Classification, Association Rules, and Clustering.
+This repository contains Jupyter Notebook exercises done in preparation for the machine learning and data mining exam. The exercises cover four main types: Regression, Classification, Association Rules, and Clustering.
 
 ## Exercise Types
 
